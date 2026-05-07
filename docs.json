@@ -142,7 +142,8 @@
               },
               "product/automation/scheduled-tasks"
             ]
-          }
+          },
+          "product/testing"
         ]
       },
       {
