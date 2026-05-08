@@ -221,6 +221,7 @@
         "icon": "book-open",
         "href": "https://www.mintlify.com/docs",
         "pages": [
+          "qwertyuiop",
           "test"
         ]
       },
