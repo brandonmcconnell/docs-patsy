@@ -231,7 +231,10 @@
         "product": "Articles",
         "description": "News, announcements, and engineering posts.",
         "icon": "newspaper",
-        "href": "https://www.mintlify.com/blog"
+        "href": "https://www.mintlify.com/blog",
+        "pages": [
+          "test"
+        ]
       }
     ]
   },
