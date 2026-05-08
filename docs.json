@@ -153,7 +153,8 @@
               "product/automation/scheduled-tasks"
             ]
           },
-          "product/testing"
+          "product/testing",
+          "product/test123"
         ]
       },
       {
